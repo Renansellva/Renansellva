@@ -1,4 +1,4 @@
-# Oiii! Eu sou o Renan Silva 👋
+# Olá! Eu sou o Renan Silva 👋
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no IFPI  
 📚 Atualmente no **3º período de 5**  
