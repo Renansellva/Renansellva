@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no IFPI (3º período de 5)  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no IFPI (4º período de 5)  
 💻 Desenvolvedor **Front-End** | Explorando o mundo do **Back-End**  
 🏢 Atualmente **Estagiário na SOMA**  
 🚀 Sempre em busca de aprender novas ferramentas e boas práticas  
